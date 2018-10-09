@@ -1,3 +1,5 @@
+[![Build Status](https://savia.visualstudio.com/PruebasManagement/_apis/build/status/josemiteba.pipelines-python-django)](https://savia.visualstudio.com/PruebasManagement/_build/latest?definitionId=63)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
